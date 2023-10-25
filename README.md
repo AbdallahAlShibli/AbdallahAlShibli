@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @AbdallahAlShibli
 - 👀 Full stack developer #Android - #Flutter📲, #IOT, #Java, #Angular14, #TypeScript, #JavaScript & #Python, …*
-- 🌱 I’m currently learning Flutter.
+- 🌱 Flutter ...
